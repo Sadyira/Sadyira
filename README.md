@@ -1,4 +1,4 @@
-<img src="https://giphy.com/explore/purple-hello" alt="hello world"/>
+<div align="center"><img src="https://c.tenor.com/BfprZBD7YqUAAAAC/pusheen-animated-pusheen.gif" alt="hello world"/></div>
 
 
 <h1 align="center">Hi 👋, I'm Sadyira Mejia</h1>
