@@ -1,4 +1,4 @@
-<img src="https://github.com/AhrensOG/AhrensOG/blob/main/svg.svg" alt="hello world"/>
+<img src="https://giphy.com/explore/purple-hello" alt="hello world"/>
 
 
 <h1 align="center">Hi 👋, I'm Sadyira Mejia</h1>
